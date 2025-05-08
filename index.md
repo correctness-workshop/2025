@@ -6,7 +6,7 @@ comments: false
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>Correctness 2025: Ninth International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h2>Correctness 2025: 9th International Workshop on Software Correctness for HPC Applications</h2></center>
 <center><h4> November 17, 2025 (full day, X:00am - X:00pm CST) </h4></center>
 <center><h4> America’s Center </h4></center>
 <center><h4> St. Louis, Missouri, USA </h4></center>
@@ -66,7 +66,7 @@ Topics of interest include, but are not limited to:
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
 Authors are invited to submit manuscripts in English structured as technical or experience papers in 
-any of these categories: (a) **regular papers:** with a length of at least **7 pages** but not exceeding **8 pages** of content, 
+any of these categories: (a) **regular papers:** with a length of at least **7 pages**, not exceeding **8 pages** of content, 
 including everything except references; (b) **short papers:** with a length of **5 pages** including references.
 
 Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
@@ -74,7 +74,7 @@ Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishi
 <!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
 
-Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/). Please use the "Correctness" form (the "Correctness Short Papers" form is for HPC Bug Fest papers only).
+Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
 
 #### SC Reproducibility Initiative
 
@@ -82,6 +82,7 @@ We encourage authors to submit an **optional** artifact description (AD) appendi
 
 ---
 
+<!--
 ###  <a class="anchor" name="submissions"> HPC Bug Fest </a>
 This year again, we have the [HPC Bug Fest](https://sites.google.com/view/hpc-bugs-fest/home), a session that will focus on correctness benchmarks. The goal is to provide a detailed snapshot of the state-of-the-art HPC verification tools by both discussing their methodologies and comparing their evaluation metrics. 
 
@@ -93,6 +94,7 @@ mandatory to ensure reproducibility.
 More information on the website: [https://sites.google.com/view/hpc-bugs-fest/home](https://sites.google.com/view/hpc-bugs-fest/home)
 
 HPC Bug Fest papers must be submitted electronically using the "Correctness Short Papers" form at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
+-->
 
 ----
 
@@ -154,8 +156,8 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-- Georgia World Congress Center, Atlanta, Georgia, USA
-- Room: B315
+- America’s Center, St Louis, Missouri, USA
+- Room: TDB
 
 ---
 ### <a class="anchor" name="program">Program</a>
