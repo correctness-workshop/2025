@@ -1,16 +1,16 @@
 ---
 layout: template1
-title: Correctness 2024
+title: Correctness 2025
 comments: false
 ---
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>Correctness 2024: Eighth International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 18, 2024 (half day, 9:00am - 12:30pm CST) </h4></center>
-<center><h4> Georgia World Congress Center, Atlanta </h4></center>
-<center><h4> Atlanta, Georgia, USA </h4></center>
-<center><h5> Held in conjunction with SC24: <a href="https://sc24.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
+<center><h2>Correctness 2025: Ninth International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h4> November 17, 2025 (full day, X:00am - X:00pm CST) </h4></center>
+<center><h4> America’s Center </h4></center>
+<center><h4> St. Louis, Missouri, USA </h4></center>
+<center><h5> Held in conjunction with SC25: <a href="https://sc25.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
 In cooperation with <br />
 <a href="http://www.computer.org">
@@ -65,7 +65,7 @@ Topics of interest include, but are not limited to:
 ----
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
-Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content, including everything except references. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
+Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **7 pages** but not exceeding **8 pages** of content, including everything except references. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
 
 <!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
@@ -106,18 +106,18 @@ The proceedings will be archived in IEEE Xplore.
 * Camera-ready papers due: TBD
 -->
 
-* Paper submissions due: ~~July 19, 2024~~ ~~August 2, 2024~~ **Extended:** August 8, 2024
-* Notification of acceptance: ~~August 23, 2024~~ September 6, 2024
-* E-copyright registration completed by authors: ~~September 9, 2024~~ September 27, 2024
-* Camera-ready papers due: ~~September 9, 2024~~ September 27, 2024
+* Paper submissions due: July 18, 2025
+* Notification of acceptance: August 22, 2025
+* E-copyright registration completed by authors: TBD
+* Camera-ready papers due: TBD
 
 All time zones are AOE.
 
 ---
 ### <a class="anchor" name="date">Workshop Date</a>
 
-- Half-day Workshop
-- November 18, 2024, 9:00am - 12:30pm EST
+- Full-day Workshop
+- November 17, 2025, X:00am - X:30pm CST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
@@ -128,6 +128,7 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
+<!--
 [Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA <br />
 [Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
 [John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
@@ -144,6 +145,7 @@ All time zones are AOE.
 [Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
 [Matt Sottile](https://scholar.google.com/citations?user=q6Z0FZMAAAAJ&hl=en), Lawrence Livermore National Laboratory, USA <br />
 [Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore National Laboratory, USA <br />
+-->
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
@@ -155,6 +157,7 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
+<!--
 #### Workshop Introduction
 <table>
 <tr><td width="15">  </td> <td>9:am - 9:09am:  <b>Opening Remarks</b>, Ignacio Laguna, Cindy Rubio-González </td> </tr>
@@ -209,6 +212,8 @@ All time zones are AOE.
       Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman</td> </tr>
 </table>
 
+-->
+
 ---
 ###  <a class="anchor" name="award">Best Paper Presentation Award</a>
 
@@ -219,9 +224,14 @@ A high-quality presentation should present clearly the correctness problem being
 Only regular papers are eligible for the Best Paper Presentation Award (short papers are not eligible).
 
 #### Winner
+
+TBD
+
+<!--
 The winner of the **Best Paper Presentation Award** is the paper "Compiler-Aided Correctness Checking of CUDA-Aware MPI Applications", co-authored by Alexander Hück, Tim Ziegler, Simon Schwitanski, Joachim Jenke, Christian Bischof. Congratulations!
 
 <img src="img/best_pres_2024.jpeg" alt="Award" />
+-->
 
 
 ---
@@ -230,6 +240,7 @@ Please address workshop questions to [Ignacio Laguna](https://lagunaresearch.org
 
 ---
 ### <a class="anchor" name="previous">Previous Workshops</a>
+- [Correctness 2024](https://correctness-workshop.github.io/2024/)
 - [Correctness 2023](https://correctness-workshop.github.io/2023/)
 - [Correctness 2022](https://correctness-workshop.github.io/2022/)
 - [Correctness 2021](https://correctness-workshop.github.io/2021/)
