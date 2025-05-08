@@ -65,7 +65,11 @@ Topics of interest include, but are not limited to:
 ----
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
-Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **7 pages** but not exceeding **8 pages** of content, including everything except references. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
+Authors are invited to submit manuscripts in English structured as technical or experience papers in 
+any of these categories: (a) **regular papers:** with a length of at least **7 pages** but not exceeding **8 pages** of content, 
+including everything except references; (b) **short papers:** with a length of **5 pages** including references.
+
+Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
 
 <!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
