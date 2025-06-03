@@ -155,7 +155,7 @@ All time zones are AOE.
 [Balthasar Reuter](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/balthasar-reuter), uropean Centre for Medium-Range Weather Forecasts, UK <br />
 [Matt Sottile](https://scholar.google.com/citations?user=q6Z0FZMAAAAJ&hl=en), Lawrence Livermore National Laboratory, USA <br />
 [Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore National Laboratory, USA <br />
-[Lechen Yu](http://lechenyu.io/), USA <br />
+[Lechen Yu](http://lechenyu.io/), Microsoft, USA <br />
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
