@@ -153,7 +153,7 @@ All time zones are AOE.
 [Erdal Mutlu](https://www.pnnl.gov/people/erdal-mutlu), Pacific Northwest National Laboratory, USA <br />
 [Pavel Panchekha](https://pavpanchekha.com/), University of Utah, USA <br />
 [Samuel	Pollard](https://scholar.google.com/citations?user=X0zJ484AAAAJ&hl=en), Sandia National Laboratories, USA <br />
-[Balthasar Reuter](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/balthasar-reuter), uropean Centre for Medium-Range Weather Forecasts, UK <br />
+[Balthasar Reuter](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/balthasar-reuter), European Centre for Medium-Range Weather Forecasts, UK <br />
 [Matt Sottile](https://scholar.google.com/citations?user=q6Z0FZMAAAAJ&hl=en), Lawrence Livermore National Laboratory, USA <br />
 [Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore National Laboratory, USA <br />
 [Lechen Yu](http://lechenyu.io/), Microsoft, USA <br />
