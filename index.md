@@ -7,7 +7,7 @@ comments: false
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <center><h2>Correctness 2025: 9th International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 17, 2025 (full day, X:00am - X:00pm CST) </h4></center>
+<center><h4> November 17, 2025 (full day, 9:00am - 5:30pm CST) </h4></center>
 <center><h4> America’s Center </h4></center>
 <center><h4> St. Louis, Missouri, USA </h4></center>
 <center><h5> Held in conjunction with SC25: <a href="https://sc25.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
@@ -123,7 +123,7 @@ All time zones are AOE.
 ### <a class="anchor" name="date">Workshop Date</a>
 
 - Full-day Workshop
-- November 17, 2025, X:00am - X:30pm CST
+- November 17, 2025, 9:00am - 5:30pm CST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
@@ -162,7 +162,7 @@ All time zones are AOE.
 ### <a class="anchor" name="venue">Venue</a>
 
 - America’s Center, St Louis, Missouri, USA
-- Room: TDB
+- Room: 261
 
 ---
 ### <a class="anchor" name="program">Program</a>
