@@ -112,8 +112,8 @@ The proceedings will be archived in IEEE Xplore.
 * Camera-ready papers due: TBD
 -->
 
-* Paper submissions due: July 18, 2025
-* Notification of acceptance: August 22, 2025
+* Paper submissions due: ~~July 18, 2025~~ **Extended:** August 1, 2025
+* Notification of acceptance: ~~August 22, 2025~~ **Extended:** Septeber 5, 2025
 * E-copyright registration completed by authors: TBD
 * Camera-ready papers due: TBD
 
