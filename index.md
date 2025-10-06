@@ -184,7 +184,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 10am - 10:30am:  Break </td> </tr>
 </table>
 
-#### Numerical Correctness in Parallel Code (MPI, OpenMP, and Beyond) (Chair: TBD)
+#### Correctness in Parallel Code (MPI, OpenMP, and Beyond) (Chair: TBD)
 <table>
 
 <tr><td width="15">  </td> <td>10:30am - 10:55am:  Paper 1:  <b>"Using Code Coverage to Assess Feature Gaps in MPI Correctness Tool Classification Tests"</b>,  Alexander Hück, Simon Schwitanski, Tim Jammer, Joachim Jenke, Yussur Mustafa Oraji, Christian Bischof </td> </tr>
