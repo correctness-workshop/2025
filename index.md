@@ -216,13 +216,13 @@ All time zones are AOE.
 
 #### Numerical Correctness (Chair: TBD)
 <table>
-
 <tr><td width="15">  </td> <td>3:30pm - 3:55pm:  Paper 6: <b>"Towards an Automated Workflow for Floating-Point Analysis of GPU Kernels"</b>, Esteban M. Rangel, S. John Pennycook</td> </tr>
 
 
 <tr><td width="15">  </td> <td>3:55pm - 4:20pm:  Paper 7: <b>"LLM4FP: LLM-Based Program Generation for Triggering Floating-Point Inconsistencies Across Compilers"</b>, Yutong Wang, Cindy Rubio-González</td> </tr>
 
 <tr><td width="15">  </td> <td>4:20pm - 4:45pm:  Paper 8: <b>"Exploring Reduced Precision for Deep Learning Activation Functions"</b>, Epifanio Sarinana, Christoph Lauter, Shirley Moore</td> </tr>
+</table>
 
 #### Panel
 <table>
