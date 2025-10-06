@@ -168,19 +168,15 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-<!--
+
 #### Workshop Introduction
 <table>
-<tr><td width="15">  </td> <td>9:am - 9:09am:  <b>Opening Remarks</b>, Ignacio Laguna, Cindy Rubio-González </td> </tr>
+<tr><td width="15">  </td> <td>9:00am - 9:05am:  <b>Opening Remarks</b>, Ignacio Laguna, Cindy Rubio-González </td> </tr>
 </table>
 
-#### Numerical Correctness and Optimization (Chair: Ignacio Laguna)
+#### Invited Talk
 <table>
-<tr><td width="15">  </td> <td>9:09am - 9:26am:  Paper 1:  <b>"The Fused Multiply-Add and Global Atmospheric Models: A Distributional Investigation into a Surprising Correctness Scenario"</b>, Teo Price-Broncucia, Allison H. Baker, Michael Duda </td> </tr>
-
-<tr><td width="15">  </td> <td>9:26am - 9:43am:  Paper 2: <b>"Toward Automated Precision Tuning of Weather and Climate Models: A Case Study"</b>, Jackson Vanover, Alper Altuntas, Cindy Rubio-González </td> </tr>
-
-<tr><td width="15">  </td> <td>9:43am - 10am:  Paper 3: <b>"Towards Verifying Exact Conditions for Implementations of Density Functional Approximations"</b>, Sameerah Helal, Zhe Tao, Cindy Rubio-González, Francois Gygi, Aditya V. Thakur </td> </tr>
+<tr><td width="15">  </td> <td>9:05am - 10:00am:  <b>Featured Speaker: Prof. Matthias Müller (RWTH Aachen University)</b> </td> </tr>
 </table>
 
 #### Break
@@ -188,42 +184,57 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 10am - 10:30am:  Break </td> </tr>
 </table>
 
-#### Reproducibility and Portability (Chair: Cindy Rubio-González)
+#### Numerical Correctness in Parallel Code (MPI, OpenMP, and Beyond) (Chair: TBD)
 <table>
 
-<tr><td width="15">  </td> <td>10:30am - 10:47am:  Paper 4: <b>"Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications"</b>, Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Oscar Hernandez, Mark Coletti, Ada Sedova </td> </tr>
+<tr><td width="15">  </td> <td>10:30am - 10:55am:  Paper 1:  <b>"Using Code Coverage to Assess Feature Gaps in MPI Correctness Tool Classification Tests"</b>,  Alexander Hück, Simon Schwitanski, Tim Jammer, Joachim Jenke, Yussur Mustafa Oraji, Christian Bischof </td> </tr>
 
-<tr><td width="15">  </td> <td>10:47am - 11:04am:  Paper 5: <b>"Toward Automated Detection of Portability Bugs in Kokkos Parallel Programs"</b>, Vivek KaleHanru Yan, Shyamali Mukherjee, Jackson Mayo, Keita Teranishi, Richard Rutledge, Alessandro Orso </td> </tr>
+<tr><td width="15">  </td> <td>10:55am - 11:20am:  Paper 2:  <b>"Coupling Static and Dynamic MPI Correctness Tools to Optimize Accuracy and Overhead"</b>, Yussur Mustafa Oraji, Simon Schwitanski, Semih Burak, Christian Bischof, Matthias Müller</td> </tr>
+
+<tr><td width="15">  </td> <td>11:20am - 11:45am:  Paper 3:  <b>"Data Race Detection through Vibe Translation"</b>, Jan Hueckelheim, Vimarsh Sathia, Siyuan Brant Qian</td> </tr>
+
+
+<tr><td width="15">  </td> <td>11:45am - 12:10pm:  Paper 4:  <b>"Differential Testing for Sequential to Parallel Transformations"</b>, Jobayer Ahmmed, Quazi I. Mahmud, Junhyung Shim, Liyi Li, Ali Jannesari, Myra B. Cohen</td> </tr>
+
+<tr><td width="15">  </td> <td>12:10pm - 12:30pm:  Paper 5 (Short paper):  <b>"Extending MPI Correctness Benchmarking to the Fortran Language"</b>, Yussur Mustafa Oraji, Alexander Hück, Christian Bischof</td> </tr>
 </table>
 
-#### OpenMP Correctness (Chair: Ignacio Laguna)
+#### Lunch Break
 <table>
-<tr><td width="15">  </td> <td>11:04am - 11:21am:  Paper 6: <b>"Facilitating Bug Detection for OpenMP Offloading Applications"</b>, Lechen Yu, Feiyang Jin, Joachim Jenke, Vivek Sarkar</td> </tr>
-
-<tr><td width="15">  </td> <td>11:21am - 11:38am:  Paper 7: <b>"ompTest – Unit Testing with OMPT"</b>, Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman </td> </tr>
+<tr><td width="15">  </td> <td> 12:30pm - 2:00pm:  Break </td> </tr>
 </table>
 
-#### Data Races (Chair: Cindy Rubio-González)
+#### Invited Talk
 <table>
-<tr><td width="15">  </td> <td>11:38am - 11:55am:  Paper 8: <b>"Compiler-Aided Correctness Checking of CUDA-Aware MPI Applications"</b>, Alexander Hück, Tim Ziegler, Simon Schwitanski, Joachim Jenke, Christian Bischof</td> </tr>
-
-<tr><td width="15">  </td> <td>11:55am - 12:12pm:  Paper 9: <b>"Taskgrind: Heavyweight Dynamic Binary Instrumentation for Parallel Programs Analysis"</b>, Romain Pereira, George Stelle, Patrick Carribault</td> </tr>
+<tr><td width="15">  </td> <td>2:00pm - 3:00pm: <b>Featured Speaker: Prof. Ali Jannesari (Iowa State University)</b> </td> </tr>
 </table>
 
-
-#### HPC Bugs Fest - Short Papers (Chair: Mihail Popov)
+#### Break
 <table>
-<tr><td width="15">  </td> <td>12:12pm - 12:18pm:  Paper 1: <b>"Designing Quality MPI Correctness Benchmarks: Insights and Metrics"</b>,
-       Tim Jammer, Simon Schwitanski, Emmanuelle Saillard, Alexander Hück, Joachim Jenke, Radjasouria Vinayagame, Christian Bischof</td> </tr>
-
-<tr><td width="15">  </td> <td>12:18pm - 12:24pm:  Paper 2: <b>"Correctness Checking of MPI+OpenMP Applications Using Vector Clocks in MUST"</b>,
-      Cornelius Pätzold, Simon Schwitanski, Joachim Jenke, Felix Tomski, Matthias S. Müller</td> </tr>
-
-<tr><td width="15">  </td> <td>12:24pm - 12:30pm:  Paper 3: <b>"OMPTBench – OpenMP Tool Interface Conformance Testing"</b>,
-      Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman</td> </tr>
+<tr><td width="15">  </td> <td> 3:30pm - 3:30am:  Break </td> </tr>
 </table>
 
--->
+#### Numerical Correctness (Chair: TBD)
+<table>
+
+<tr><td width="15">  </td> <td>3:30pm - 3:55pm:  Paper 6: <b>"Towards an Automated Workflow for Floating-Point Analysis of GPU Kernels"</b>, Esteban M. Rangel, S. John Pennycook</td> </tr>
+
+
+<tr><td width="15">  </td> <td>3:55pm - 4:20pm:  Paper 7: <b>"LLM4FP: LLM-Based Program Generation for Triggering Floating-Point Inconsistencies Across Compilers"</b>, Yutong Wang, Cindy Rubio-González</td> </tr>
+
+<tr><td width="15">  </td> <td>4:20pm - 4:45pm:  Paper 8: <b>"Exploring Reduced Precision for Deep Learning Activation Functions"</b>, Epifanio Sarinana, Christoph Lauter, Shirley Moore</td> </tr>
+
+#### Panel
+<table>
+<tr><td width="15">  </td> <td>4:45pm - 5:25pm: TBD </td> </tr>
+</table>
+
+#### Best Paper Presentation Award
+<table>
+<tr><td width="15">  </td> <td>5:25pm - 5:30pm: Best Paper Presentation Award </td> </tr>
+<tr><td width="15">  </td> <td>5:30pm: Adjourn </td> </tr>
+</table>
+
 
 ---
 ###  <a class="anchor" name="award">Best Paper Presentation Award</a>
