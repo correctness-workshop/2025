@@ -176,7 +176,7 @@ All time zones are AOE.
 
 #### Invited Talk
 <table>
-<tr><td width="15">  </td> <td>9:05am - 10:00am:  <b>Featured Speaker: Prof. Matthias Müller (RWTH Aachen University)</b> </td> </tr>
+<tr><td width="15">  </td> <td>9:05am - 10:00am:  <b>Featured Speaker: Prof. Dr. Matthias Müller (RWTH Aachen University)</b> </td> </tr>
 </table>
 
 #### Break
@@ -224,9 +224,9 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>4:20pm - 4:45pm:  Paper 8: <b>"Exploring Reduced Precision for Deep Learning Activation Functions"</b>, Epifanio Sarinana, Christoph Lauter, Shirley Moore</td> </tr>
 </table>
 
-#### Panel
+#### Lightning Talks
 <table>
-<tr><td width="15">  </td> <td>4:45pm - 5:25pm: TBD </td> </tr>
+<tr><td width="15">  </td> <td>4:45pm - 5:25pm: Emerging Tools Lightning Talks Session </td> </tr>
 </table>
 
 #### Best Paper Presentation Award
