@@ -171,7 +171,7 @@ All time zones are AOE.
 
 #### Workshop Introduction
 <table>
-<tr><td width="15">  </td> <td>9:00am - 9:05am:  <b>Opening Remarks</b>, Ignacio Laguna, Cindy Rubio-González </td> </tr>
+<tr><td width="15">  </td> <td>9:00am - 9:05am:  <b>Opening Remarks</b>, Ignacio Laguna (LLNL), Cindy Rubio-González (UC Davis)</td> </tr>
 </table>
 
 #### Invited Talk
@@ -181,7 +181,7 @@ All time zones are AOE.
 
 #### Break
 <table>
-<tr><td width="15">  </td> <td> 10am - 10:30am:  Break </td> </tr>
+<tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
 </table>
 
 #### Correctness in Parallel Code (MPI, OpenMP, and Beyond) (Chair: TBD)
@@ -201,7 +201,7 @@ All time zones are AOE.
 
 #### Lunch Break
 <table>
-<tr><td width="15">  </td> <td> 12:30pm - 2:00pm:  Break </td> </tr>
+<tr><td width="15">  </td> <td> 12:30pm - 2:00pm:  Lunch Break </td> </tr>
 </table>
 
 #### Invited Talk
@@ -211,7 +211,7 @@ All time zones are AOE.
 
 #### Break
 <table>
-<tr><td width="15">  </td> <td> 3:30pm - 3:30am:  Break </td> </tr>
+<tr><td width="15">  </td> <td> 3:00pm - 3:30am:  Break </td> </tr>
 </table>
 
 #### Numerical Correctness (Chair: TBD)
@@ -226,7 +226,7 @@ All time zones are AOE.
 
 #### Lightning Talks
 <table>
-<tr><td width="15">  </td> <td>4:45pm - 5:25pm: Emerging Tools Lightning Talks Session </td> </tr>
+<tr><td width="15">  </td> <td>4:45pm - 5:25pm: <b>Emerging Tools Lightning Talks Session</b>: featuring short presentations about emerging correctness tools. </td> </tr>
 </table>
 
 #### Best Paper Presentation Award
