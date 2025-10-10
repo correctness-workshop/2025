@@ -226,12 +226,12 @@ All time zones are AOE.
 
 #### Lightning Talks
 <table>
-<tr><td width="15">  </td> <td>4:45pm - 5:25pm: <b>Emerging Tools Lightning Talks Session</b>: featuring short presentations about emerging correctness tools. </td> <td>  </td></tr>
+<tr><td width="15">  </td> <td>4:45pm - 5:25pm: <b>Emerging Tools Lightning Talks Session</b>: featuring short presentations about emerging correctness tools. </td></tr>
 
-<tr> <td width="15"> </td> <td>  </td> <td>"Scabbard: LLVM Instrumentation-aided Race Checking in CPU/GPU Unified Memory for AMD GPUs", Andrew Osterhout (Univ. of Utah)</td></tr>
-<tr> <td width="15"> </td> <td>  </td> <td>"Scalable formal verification of scientific computing libraries", Mohit K. Tekriwal (LLNL)</td></tr>
-<tr> <td width="15"> </td> <td>  </td> <td>"Data Race Detection by Concentrating on Instrumentation", Tim Jammer (TU Darmstadt)</td></tr>
-<tr> <td width="15"> </td> <td>  </td> <td>"Using FloatGuard to detect floating point exceptions in AMD GPU programs", Dolores Miao (UC Davis)</td></tr>
+<tr> <td width="15"> </td> <td>• "Scabbard: LLVM Instrumentation-aided Race Checking in CPU/GPU Unified Memory for AMD GPUs", Andrew Osterhout (Univ. of Utah)</td></tr>
+<tr> <td width="15"> </td> <td>• "Scalable formal verification of scientific computing libraries", Mohit K. Tekriwal (LLNL)</td></tr>
+<tr> <td width="15"> </td> <td>• "Data Race Detection by Concentrating on Instrumentation", Tim Jammer (TU Darmstadt)</td></tr>
+<tr> <td width="15"> </td> <td>• "Using FloatGuard to detect floating point exceptions in AMD GPU programs", Dolores Miao (UC Davis)</td></tr>
 
 </table>
 
