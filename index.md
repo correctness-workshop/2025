@@ -176,7 +176,7 @@ All time zones are AOE.
 
 #### Invited Talk
 <table>
-<tr><td width="15">  </td> <td>9:05am - 10:00am:  <b>Featured Speaker: Prof. Dr. Matthias Müller (RWTH Aachen University)</b> </td> </tr>
+<tr><td width="15">  </td> <td>9:05am - 10:00am:  <b>Featured Speaker:</b> Prof. Dr. Matthias Müller (RWTH Aachen University): <i>"Runtime Correctness Checking with MUST and Assisting Tools"</i> </td> </tr>
 </table>
 
 #### Break
@@ -206,7 +206,7 @@ All time zones are AOE.
 
 #### Invited Talk
 <table>
-<tr><td width="15">  </td> <td>2:00pm - 3:00pm: <b>Featured Speaker: Prof. Ali Jannesari (Iowa State University)</b> </td> </tr>
+<tr><td width="15">  </td> <td>2:00pm - 3:00pm: <b>Featured Speaker:</b> Prof. Ali Jannesari (Iowa State University): <i>"Correct and Efficient HPC Code Generation with LLMs: Challenges and Opportunities"</i></td> </tr>
 </table>
 
 #### Break
