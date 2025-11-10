@@ -184,7 +184,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
 </table>
 
-#### Correctness in Parallel Code (MPI, OpenMP, and Beyond) (Chair: TBD)
+#### Correctness in Parallel Code (MPI, OpenMP, and Beyond) (Chair: Cindy Rubio-González)
 <table>
 
 <tr><td width="15">  </td> <td>10:30am - 10:55am:  Paper 1:  <b>"Using Code Coverage to Assess Feature Gaps in MPI Correctness Tool Classification Tests"</b>,  Alexander Hück, Simon Schwitanski, Tim Jammer, Joachim Jenke, Yussur Mustafa Oraji, Christian Bischof </td> </tr>
@@ -214,7 +214,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 3:00pm - 3:30am:  Break </td> </tr>
 </table>
 
-#### Numerical Correctness (Chair: TBD)
+#### Numerical Correctness (Chair: Ignacio Laguna)
 <table>
 <tr><td width="15">  </td> <td>3:30pm - 3:55pm:  Paper 6: <b>"Towards an Automated Workflow for Floating-Point Analysis of GPU Kernels"</b>, Esteban M. Rangel, S. John Pennycook</td> </tr>
 
