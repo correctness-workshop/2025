@@ -255,10 +255,7 @@ Only regular papers are eligible for the Best Paper Presentation Award (short pa
 
 The winner of the **Best Paper Presentation Award** is the paper "Data Race Detection through Vibe Translation", co-authored by Jan Hueckelheim, Vimarsh Sathia, and Siyuan Brant Qian. Congratulations!
 
-<!--
 <img src="img/best_pres_2025.jpeg" alt="Award" />
--->
-<img src="img/best_pres_2025.jpeg" alt="Award" style="width: 80%; height: 80%;" />
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
